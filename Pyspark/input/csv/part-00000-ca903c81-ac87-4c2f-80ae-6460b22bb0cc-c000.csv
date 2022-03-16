@@ -1,0 +1,11 @@
+a;20;worker
+b;12;faad
+c;44;dfaf
+d;123;sfsgs
+a;"";worker
+b;12;faad
+c;44;""
+d;123;sfsgs
+b;12;faad
+c;44;dfaf
+d;123;sfsgs
